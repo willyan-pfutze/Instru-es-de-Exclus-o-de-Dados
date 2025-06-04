@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Termos de Uso</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; padding: 20px; max-width: 800px; margin: auto;">
+  <h1>Termos de Uso</h1>
+  <p>Última atualização: 04 de junho de 2025</p>
+
+  <p>Bem-vindo ao nosso aplicativo! Ao utilizar nossos serviços, você concorda com os seguintes termos de uso:</p>
+
+  <h2>1. Aceitação dos Termos</h2>
+  <p>Ao acessar e usar este aplicativo, você concorda em cumprir estes termos. Caso não concorde, não utilize o aplicativo.</p>
+
+  <h2>2. Uso do Serviço</h2>
+  <p>Você deve usar o aplicativo apenas para fins legais e respeitando todas as leis aplicáveis. É proibido utilizar o aplicativo para atividades ilegais ou prejudiciais.</p>
+
+  <h2>3. Modificações</h2>
+  <p>Reservamo-nos o direito de alterar estes termos a qualquer momento. Recomendamos que você revise esta página periodicamente.</p>
+
+  <h2>4. Responsabilidades</h2>
+  <p>Não nos responsabilizamos por perdas ou danos decorrentes do uso indevido do aplicativo.</p>
+
+  <h2>5. Contato</h2>
+  <p>Para dúvidas ou sugestões, entre em contato pelo e-mail: <strong>seuemail@exemplo.com</strong></p>
+</body>
+</html>
